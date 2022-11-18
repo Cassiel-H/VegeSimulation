@@ -35,17 +35,22 @@ Mathematics and Statistics of University of Melbourne**
 
 ## MAST90106 - Project Part-1
 ### Presentation
-* [Canva](https://www.canva.cn/design/DAFBCMwo31g/1Fq1tvp-h1svuryfYaXv3A/view?utm_content=DAFBCMwo31g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton): https://www.canva.cn/design/DAFBCMwo31g/1Fq1tvp-h1svuryfYaXv3A/view?utm_content=DAFBCMwo31g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Canva:
+https://www.canva.cn/design/DAFBCMwo31g/1Fq1tvp-h1svuryfYaXv3A/view?utm_content=DAFBCMwo31g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ### Report 
-* [Overleaf](https://www.overleaf.com/read/zggqfftshbfb): https://www.overleaf.com/read/zggqfftshbfb
+- Overleaf:
+https://www.overleaf.com/read/zggqfftshbfb
 ## MAST90107 - Project Part-2
 ### Presentation
-* [Google doc](https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing): https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing
-* [Youtube](https://www.youtube.com/watch?v=0DoxLSOES4Q): https://www.youtube.com/watch?v=0DoxLSOES4Q
+- Google doc:
+https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing
+- Youtube:
+https://www.youtube.com/watch?v=0DoxLSOES4Q): https://www.youtube.com/watch?v=0DoxLSOES4Q
 ### Report
 - pdf version: 
 https://github.com/Cassiel-H/VegeSimulation/blob/main/project.pdf
-* [Overleaf](https://www.overleaf.com/read/jhrgzvxymcjd): https://www.overleaf.com/read/jhrgzvxymcjd
+- Overleaf version: 
+https://www.overleaf.com/read/jhrgzvxymcjd
 
 ## *Keywords*
  [JeDi-DGVM](https://bg.copernicus.org/articles/10/4137/2013/), [Surrogate Model](https://en.wikipedia.org/wiki/Surrogate_model#:~:text=A%20surrogate%20model%20is%20an,a%20function%20of%20design%20variables.), [Random Forest](https://link.springer.com/article/10.1007/s11749-016-0481-7), [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis), [ARIMA](https://link.springer.com/chapter/10.1007/978-3-319-52452-8_3), [Long Short-Term Memory](https://link.springer.com/chapter/10.1007/978-3-642-24797-2_4)
