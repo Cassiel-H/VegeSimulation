@@ -43,6 +43,8 @@ Mathematics and Statistics of University of Melbourne**
 * [Google doc](https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing): https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing
 * [Youtube](https://www.youtube.com/watch?v=0DoxLSOES4Q): https://www.youtube.com/watch?v=0DoxLSOES4Q
 ### Report
+- pdf version: 
+https://github.com/Cassiel-H/VegeSimulation/blob/main/project.pdf
 * [Overleaf](https://www.overleaf.com/read/jhrgzvxymcjd): https://www.overleaf.com/read/jhrgzvxymcjd
 
 ## *Keywords*
